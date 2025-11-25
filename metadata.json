@@ -1,0 +1,7 @@
+{
+  "name": "KhmerVoice AI",
+  "description": "A next-generation AI speech-to-text platform specialized for the Khmer language, featuring real-time visualization and state-of-the-art accuracy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
